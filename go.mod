@@ -36,6 +36,7 @@ require (
 	github.com/linode/linodego v1.9.3
 	github.com/miekg/dns v1.1.50
 	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f
+	github.com/nacos-group/nacos-sdk-go/v2 v2.1.2
 	github.com/oklog/run v1.1.0
 	github.com/oklog/ulid v1.3.1
 	github.com/ovh/go-ovh v1.3.0
@@ -83,7 +84,13 @@ require (
 
 require (
 	cloud.google.com/go/compute/metadata v0.2.2 // indirect
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1704 // indirect
+	github.com/buger/jsonparser v1.1.1 // indirect
 	github.com/coreos/go-systemd/v22 v22.4.0 // indirect
+	github.com/golang/mock v1.6.0 // indirect
+	go.uber.org/multierr v1.7.0 // indirect
+	go.uber.org/zap v1.21.0 // indirect
+	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 )
 
 require (
